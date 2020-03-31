@@ -13,9 +13,10 @@ def check_modules():
 
     try:
         import colorama
-    except:
+    except Exception as e:
         print("[-] 'colorama' paketi yüklü değil!")
         print("[*] Yüklemek için 'pip install colorama' yazın!")
+        print(e)
         sys.exit(0)
 
     try:
