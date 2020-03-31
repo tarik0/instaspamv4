@@ -2,4 +2,4 @@
 🤖 An Instagram Reporting Bot.
 
 
-![gf](https://gfycat.com/ifr/InfantileGloomyHind)
+![gf](https://raw.githubusercontent.com/tarik0/instaspamv4/master/ezgif.com-video-to-gif.gif)
