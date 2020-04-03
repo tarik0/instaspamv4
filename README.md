@@ -10,21 +10,23 @@
 #git clone https://github.com/tarik0/instaspamv4.git
 
 ```
-## execute the script 
+## Execute the script and install some dependencies
 ```
 #chmod +x instaspamv4.py 
 
-```
+
 #sudo pip3 install --upgrade setuptools
 
-```
+
 #sudo pip3 install proxybroker
 
-```
+
 #python3 instaspamv4.py
 
-```
-## translate
+
+
+## Translate
+
 
 [OK] Modules loaded!  =  [ OK ] Modüller yüklendi!
 Would you like to use proxy? [Y / N]  = Proxy kullanmak ister misiniz? [E/H]
