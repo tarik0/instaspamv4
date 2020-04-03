@@ -1,14 +1,10 @@
 # coding=utf-8
 #!/usr/bin/env python3
-
 from libs.check_modules import check_modules
 from sys import exit
 from os import _exit
-
 check_modules()
-
 from os import path
-
 from libs.logo import print_logo
 from libs.utils import print_success
 from libs.utils import print_error
